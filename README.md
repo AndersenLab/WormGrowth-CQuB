@@ -21,7 +21,11 @@ The directory structure in the folder of each assay is constructed according to 
 The processed.csv file contains data for each measured worm.  
 The Summarized.csv file contains summarized data for each well.
 
+### code directory
+R scrpipts used to process data and to generate plots.
 
+### plots_tables directory
+Plots and tables 
 
 
 ## Assay
