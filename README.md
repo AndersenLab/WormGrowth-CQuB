@@ -27,4 +27,4 @@ The Summarized.csv file contains summarized data for each well.
 ## Assay
 ### 20181115_NaAzide_score
 #### Test effects of NaN3 on *C. elegans* size after 1-5 hours
-##### 100,000 synchronized L1s were grown with 20 OD HT115 bacteria (100 ml in total) in a 500 ml flask, at 20°C. At each time point, 1 ml was sampled into a 1.5 ml microtube. 
+##### 100,000 synchronized L1s were grown with 20 OD HT115 bacteria (100 mL in total) in a 500 ml flask, at 20°C. At each time point, 1 mL was sampled into a 1.5-mL microtube, add 50 µL M9 with 200 mM sodium azide to stop feeding and straighten the worms. Score 500 uL immediately in two wells. The rest stayed at room temperature and was scored in 1 to 5 hours.
