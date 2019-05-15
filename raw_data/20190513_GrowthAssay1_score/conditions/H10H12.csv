@@ -1,0 +1,9 @@
+row,1,2,3,4,5,6,7,8,9,10,11,12
+A,10_R01,10_R01,10_R01,Wash,11_R01,11_R01,11_R01,Wash,12_R01,12_R01,12_R01,Wash
+B,10_R02,10_R02,10_R02,Wash,11_R02,11_R02,11_R02,Wash,12_R02,12_R02,12_R02,Wash
+C,10_R03,10_R03,10_R03,Wash,11_R03,11_R03,11_R03,Wash,12_R03,12_R03,12_R03,Wash
+D,10_R04,10_R04,10_R04,Wash,11_R04,11_R04,11_R04,Wash,12_R04,12_R04,12_R04,Wash
+E,10_R05,10_R05,10_R05,Wash,11_R05,11_R05,11_R05,Wash,12_R05,12_R05,12_R05,Wash
+F,10_R06,10_R06,10_R06,Wash,11_R06,11_R06,11_R06,Wash,12_R06,12_R06,12_R06,Wash
+G,10_no worms,10_no worms,10_no worms,Wash,11_no worms,11_no worms,11_no worms,Wash,12_no worms,12_no worms,12_no worms,Wash
+H,10_no food,10_no food,10_no food,Wash,11_no food,11_no food,11_no food,Wash,12_no food,12_no food,12_no food,Wash

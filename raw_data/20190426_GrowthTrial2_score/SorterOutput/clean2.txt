@@ -1,0 +1,7 @@
+Id	Plate	Row	Column	Clog	Scan rate	Status sort	Status sel	TOF	EXT	Green	Yellow	Red	PH Ext	PW Ext	PC Ext	PH Green	PW Green	PCGreen	PH Yellow	PW Yellow	PCYellow	PH Red	PW Red	PCRed	Time Stamp	
+0	1	C	1	N	2500	0	40	662	1626	96	76	58	0	0	0	0	0	0	0	0	0	0	0	0	5115839	
+1	1	C	1	N	2500	0	40	25	36	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5116588	
+2	1	C	1	N	2500	0	40	34	45	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	5119505	
+3	1	C	1	N	2500	0	40	553	1386	65	57	42	0	0	0	0	0	0	0	0	0	0	0	0	5119583	
+4	1	C	1	N	2500	0	40	254	591	32	26	16	0	0	0	0	0	0	0	0	0	0	0	0	5120316	
+5	1	C	1	N	2500	0	40	860	2982	110	38	47	0	0	0	0	0	0	0	0	0	0	0	0	5121548	
